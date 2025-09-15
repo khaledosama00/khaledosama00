@@ -38,7 +38,7 @@ I'm Khaled Osama, Cybersecurity Analyst 🔐<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledosama22)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/khaledosama47/)
-https://tryhackme.com/p/khaledosama478
+
 
 ---
 
