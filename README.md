@@ -9,13 +9,12 @@ I'm Khaled Osama, 🎓 Computer Science Student | 👨‍💻 SOC Analyst (Entry
 
 ### 🛡️ About Me:
 
-- 💻 I’m a **Cybersecurity beginner** with a growing hands-on skillset in ethical hacking and network security.
-- 🧠 **Strong knowledge in Python and JavaScript** used for scripting, automation, and web application security.
-- 🌐 I have **solid fundamentals in HTML, CSS, and PHP**, which support my understanding of web vulnerabilities.
-- 🔍 Passionate about information security, vulnerability testing, and threat analysis.
-- 📚 Currently exploring tools like Linux, Wireshark, Burp Suite, and more.
-- 🎯 My goal is to become a professional penetration tester and contribute to strengthening digital defenses.
-
+💻 I am a Cybersecurity beginner with a strong interest in working as a SOC Analyst, focusing on security monitoring and incident response.
+🧠 I have a solid understanding of threat analysis, security alerts, and log monitoring.
+🌐 I possess good fundamentals in networking and network protocols, along with basic knowledge of system and web security.
+🔍 I am passionate about detecting cyber attacks, analyzing suspicious activities, and helping reduce security risks.
+📚 I am currently developing my skills using tools such as Linux, Wireshark, SIEM platforms, and other security monitoring tools.
+🎯 My goal is to become a professional SOC Analyst and contribute to protecting digital infrastructure through effective security operations.
 ---
 
 ### 🧰 Tools and Technologies I'm Working With:
