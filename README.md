@@ -40,6 +40,8 @@ I'm Khaled Osama, 🎓 Computer Science Student | 👨‍💻 SOC Analyst (Entry
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-FF6C37?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/khaledosama478)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@khaledosama478)
 [![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-10944F?style=flat-square&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/اسم_البروفايل)
+[![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-0A0A0A?style=flat-square)](https://cyberdefenders.org/p/khaledosama478/)
+
 
 
 
